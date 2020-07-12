@@ -1,0 +1,10 @@
+[package]
+name = "actix-server"
+version = "0.0.0"
+edition = "2018"
+
+[dependencies]
+actix-web = "2.0"
+actix-rt = "1.0"
+listenfd = "0.3"
+dotenv = "0.15.0"
